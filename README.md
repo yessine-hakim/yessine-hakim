@@ -15,9 +15,9 @@
 ---
 
 ## 🌐 Find me around the web:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessinehakim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessine-hakim/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yessine.hakim@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/YessineHakim)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/yessine-hakim)
 
 ---
 
@@ -44,14 +44,14 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YessineHakim&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YessineHakim&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YessineHakim&theme=react&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yessine-hakim&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yessine-hakim&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yessine-hakim&theme=react&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YessineHakim&theme=tokyonight&no-frame=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yessine-hakim&theme=tokyonight&no-frame=false&margin-w=4)
 
 ---
 
@@ -61,9 +61,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YessineHakim/YessineHakim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YessineHakim/YessineHakim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YessineHakim/YessineHakim/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yessine-hakim/yessine-hakim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yessine-hakim/yessine-hakim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yessine-hakim/yessine-hakim/output/github-snake.svg" />
 </picture>
 
 ---
@@ -71,11 +71,11 @@
 ### ⭐ Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/YessineHakim/Around-Expressions-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YessineHakim&repo=Around-Expressions-Website&theme=react&hide_border=true" />
+  <a href="https://github.com/yessine-hakim/Around-Expressions-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=Around-Expressions-Website&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/YessineHakim/TransitX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YessineHakim&repo=TransitX&theme=react&hide_border=true" />
+  <a href="https://github.com/yessine-hakim/TransitX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=TransitX&theme=react&hide_border=true" />
   </a>
 </p>
 
