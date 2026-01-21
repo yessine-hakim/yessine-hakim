@@ -72,10 +72,10 @@
 
 <p align="center">
   <a href="https://github.com/yessine-hakim/Around-Expressions-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=Around-Expressions-Website&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=EduRise&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/yessine-hakim/TransitX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=TransitX&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=MediFlow&theme=react&hide_border=true" />
   </a>
 </p>
 
