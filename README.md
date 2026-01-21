@@ -71,10 +71,10 @@
 ### ⭐ Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/yessine-hakim/Around-Expressions-Website">
+  <a href="https://github.com/yessine-hakim/EduRise">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=EduRise&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/yessine-hakim/TransitX">
+  <a href="https://github.com/yessine-hakim/MediFlow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessine-hakim&repo=MediFlow&theme=react&hide_border=true" />
   </a>
 </p>
