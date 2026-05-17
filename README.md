@@ -52,13 +52,6 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yessine-hakim&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine-hakim&theme=react&hide_border=true&layout=compact&langs_count=8" height="180" />
-
-</div>
-
-<div align="center">
-
   <img src="https://streak-stats.demolab.com?user=yessine-hakim&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
@@ -68,7 +61,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=yessine-hakim&theme=tokyonight&no-frame=true&margin-w=6&column=7)
+  ![](https://github-profile-trophy.vercel.app/?username=yessine-hakim&theme=tokyonight&no-frame=true&margin-w=6&column=4)
 
 </div>
 
