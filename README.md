@@ -13,7 +13,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m a **3rd-year Engineering student** specializing in Artificial Intelligence  
+🌱 I’m a **4th-year Engineering student** specializing in Artificial Intelligence  
 💻 I build **real-world web and AI applications** using modern technologies  
 🚀 Interested in **RAG systems, Agentic AI, and scalable web platforms**  
 👯 Open to collaborating with other developers on meaningful projects  
