@@ -77,15 +77,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=yessine-hakim&theme=tokyonight&no-frame=true&margin-w=6&column=4)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
